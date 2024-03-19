@@ -8,4 +8,4 @@ Java
 Swing
 JDBC
 MySQL
-IntelliJ IDEA
+IntelliJIDEA
